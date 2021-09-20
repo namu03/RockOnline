@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Permanent+Marker&family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Neucha&family=Rock+Salt&display=swap');
+
+.head{
+    font-family: 'MedievalSharp', cursive;
+    padding-left: 30rem;
+}
+
+.head1{
+    font-family: 'MedievalSharp', cursive;
+    padding-left: 33rem;
+}
+
+a{
+   
+    text-decoration: none;
+    color: rgb(231, 220, 220);  
+    font-family: 'MedievalSharp', cursive;
+    font-size: larger;
+}
+
+
+.nav1{
+    background: rgb(185, 134, 134);
+    padding:1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-radius: 2rem;
+    
+}
+
+.navbar{
+    background: rgb(134, 185, 161);
+    padding:1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-radius: 2rem;  
+}
+
+.link1{
+    padding-left: 45rem;
+}
+
+.link2{
+    padding-left: 2rem;
+}
+.link3{
+    padding-left: 2rem;
+}
+.link4{
+    padding-left: 2rem;
+}
+.link5{
+    padding-left: 2rem;
+}
+.link6{
+    padding-left: 2rem;
+}
+
+.line{
+    font-family: 'MedievalSharp', cursive;
+    padding-left: 19rem;
+}
+
+.read{
+    padding-top: 2rem;
+    padding-left: 35rem;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.readlink{
+    font-family: 'Permanent Marker', cursive;
+    color: brown;
+}
+
+.img{
+    padding-left: 1rem;
+}
+.img1{
+    padding-left: 5rem;
+}
+.img2{
+    padding-left: 5rem;
+}
+
+img{
+    border-radius: 2rem;
+}
+
+.imageline1{
+   background:whitesmoke;
+   border-radius: 2rem;
+}
+
+.imageline2{
+    background:whitesmoke;
+    border-radius: 2rem;
+ }
+
+ .name{
+     margin-left: 5rem;
+     font-family: 'Kaushan Script', cursive;
+ }
+
+ .name1{
+    margin-left: 11rem;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.name2{
+    margin-left: 12rem;
+    font-family: 'Kaushan Script', cursive;
+}
+
+ .imgsel{
+     border-radius: 150px;
+ }
